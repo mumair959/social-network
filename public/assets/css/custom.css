@@ -1,0 +1,112 @@
+.pad-1{
+    padding: 0px;
+}
+
+.font-50{
+    font-size: 50px;
+}
+
+.w-100-per{
+    width: 100%;
+}
+
+.footer-padding{
+    padding: 12px;
+}
+
+.avatar-145{
+    width: 145px;
+}
+
+.nav-item-font{
+    font-size: 14px;
+}
+
+.f-18{
+    font-size: 18px;
+}
+
+.mt-10{
+    margin-top: 10px;
+}
+
+.fill-red{
+    color: red;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.img-size-24{
+    width: 24px;
+}
+
+.ml-10{
+    margin-left: 10px;
+}
+
+.pull-right{
+    float: right;
+}
+
+.pull-left{
+    float: left;
+}
+
+.center-align{
+    margin: 0 auto;
+}
+
+.error-text-class{
+    color: red;
+    font-size: 12px;
+}
+
+.profile-img-listing{
+    width: 40px;
+}
+
+.label-success{
+    color: #2dcdb2;
+    font-weight: bold;
+}
+
+.label-danger{
+    color: #ff5a3e;
+    font-weight: bold;
+}
+
+.label-warning{
+    color: #ffba68;
+    font-weight: bold;
+}
+
+.label-primary{
+    color: #50b5ff;
+    font-weight: bold;
+}
+
+.mt-10-neg{
+    margin-top: -10px;
+}
+
+.link-disabled{
+    opacity: 0.4;
+}
+
+.icon-success{
+    color: #2dcdb2;
+}
+
+.icon-danger{
+    color: #ff5a3e;
+}
+
+.icon-warning{
+    color: #ffba68;
+}
+
+.icon-primary{
+    color: #50b5ff;
+}
